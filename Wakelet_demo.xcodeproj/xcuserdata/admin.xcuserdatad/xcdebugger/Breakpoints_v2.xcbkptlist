@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "83475AA7-D32A-46B6-8B14-11E2118E8184"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "FB7C1678-7B4D-4208-A744-D1A3F185B2DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6A227A8-7120-4296-9CE0-760B8DE7C023"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "makeRequest(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94569471-9AFF-4930-8454-9040D4EB5887"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "makeRequest(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7078D89-464C-45DA-939F-80DB9BC0803E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "makeRequest(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7078D89-464C-45DA-939F-80DB9BC0803E - 78d5d4aba4b8d73c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wakelet_demo.Network.printJSON(data: Foundation.Data) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "D7078D89-464C-45DA-939F-80DB9BC0803E - 78d5d4aba4b8d73c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wakelet_demo.Network.printJSON(data: Foundation.Data) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1562">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45CE43FA-F0D1-449C-BAAD-81867759DD9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "makeRequest(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08FF82B1-89A2-4C15-8BB2-0B34924BB1C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "queryString"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "08FF82B1-89A2-4C15-8BB2-0B34924BB1C1 - 5840678e4737b9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wakelet_demo.Network.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Wakelet_demo.RestEnum) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "607">
+               </Location>
+               <Location
+                  uuid = "08FF82B1-89A2-4C15-8BB2-0B34924BB1C1 - 98862a95b60d07bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Wakelet_demo.Network.makeRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Wakelet_demo.RestEnum) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "246">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55DC5DB8-3A5B-4CF6-A4D9-A76C6BCFB644"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/CollectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "editCollection(title:description:image:collection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55DC5DB8-3A5B-4CF6-A4D9-A76C6BCFB644 - e578a1b6e12fd917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Wakelet_demo.CollectionViewModel.editCollection(title: Swift.String, description: Swift.String, image: Swift.String, collection: Wakelet_demo.UICollection) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/CollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  uuid = "55DC5DB8-3A5B-4CF6-A4D9-A76C6BCFB644 - e22a0e0b3978ac06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Wakelet_demo.CollectionViewModel.editCollection(title: Swift.String, description: Swift.String, image: Swift.String, collection: Wakelet_demo.UICollection) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/CollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "55DC5DB8-3A5B-4CF6-A4D9-A76C6BCFB644 - d9cccb00d7470511"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Wakelet_demo.CollectionViewModel.editCollection(title: Swift.String, description: Swift.String, image: Swift.String, collection: Wakelet_demo.UICollection) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/CollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "394">
+               </Location>
+               <Location
+                  uuid = "55DC5DB8-3A5B-4CF6-A4D9-A76C6BCFB644 - 2b852625c250a371"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Wakelet_demo.CollectionViewModel.editCollection(title: Swift.String, description: Swift.String, image: Swift.String, collection: Wakelet_demo.UICollection) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/CollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "55DC5DB8-3A5B-4CF6-A4D9-A76C6BCFB644 - 2b852625c250a312"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Wakelet_demo.CollectionViewModel.editCollection(title: Swift.String, description: Swift.String, image: Swift.String, collection: Wakelet_demo.UICollection) -&gt; ()"
+                  moduleName = "Wakelet_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/100DaysOfSwiftUI/Wakelet_demo/Wakelet_demo/CollectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A01EE41E-03C9-443B-BAD4-6ED076A47339"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wakelet_demo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "makeRequest(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

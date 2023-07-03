@@ -11,7 +11,7 @@ import SwiftUI
 struct Wakelet_demoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CollectionViewController()
         }
     }
 }

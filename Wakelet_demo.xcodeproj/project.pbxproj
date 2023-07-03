@@ -7,18 +7,60 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84722D0329EEDF2E0043ED0E /* ImageResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84722D0229EEDF2E0043ED0E /* ImageResponse.swift */; };
+		84722D0529EEF77B0043ED0E /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84722D0429EEF77B0043ED0E /* SafariView.swift */; };
+		84722D0729F15D5F0043ED0E /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84722D0629F15D5F0043ED0E /* AddItemView.swift */; };
+		84722D0A29F17C8D0043ED0E /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84722D0829F17C8C0043ED0E /* ImagePicker.swift */; };
+		84722D0D29F289AD0043ED0E /* EditItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84722D0C29F289AD0043ED0E /* EditItemView.swift */; };
+		84722D0F29F2AC490043ED0E /* DropViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84722D0E29F2AC490043ED0E /* DropViewDelegate.swift */; };
 		8494529429ED44E30015B5E3 /* Wakelet_demoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8494529329ED44E30015B5E3 /* Wakelet_demoApp.swift */; };
 		8494529629ED44E30015B5E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8494529529ED44E30015B5E3 /* ContentView.swift */; };
 		8494529829ED44E50015B5E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8494529729ED44E50015B5E3 /* Assets.xcassets */; };
 		8494529B29ED44E50015B5E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8494529A29ED44E50015B5E3 /* Preview Assets.xcassets */; };
+		849452A229ED45540015B5E3 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452A129ED45540015B5E3 /* Network.swift */; };
+		849452A429ED48DD0015B5E3 /* Collection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452A329ED48DD0015B5E3 /* Collection.swift */; };
+		849452A629ED49150015B5E3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452A529ED49150015B5E3 /* Item.swift */; };
+		849452AA29ED498D0015B5E3 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452A929ED498D0015B5E3 /* HeaderView.swift */; };
+		849452AC29ED4BF30015B5E3 /* ItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452AB29ED4BF30015B5E3 /* ItemsView.swift */; };
+		849452AE29ED516D0015B5E3 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452AD29ED516D0015B5E3 /* CollectionViewController.swift */; };
+		849452B029ED52E30015B5E3 /* CollectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849452AF29ED52E30015B5E3 /* CollectionViewModel.swift */; };
+		84E289E029FA5CDE00EA475F /* UnsplashResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E289DF29FA5CDE00EA475F /* UnsplashResponse.swift */; };
+		84E289E229FA5D5100EA475F /* SearchObjectController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E289E129FA5D5100EA475F /* SearchObjectController.swift */; };
+		84E289E429FA81DB00EA475F /* UpdateCollectionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E289E329FA81DB00EA475F /* UpdateCollectionResponse.swift */; };
+		84E289E629FA8F8500EA475F /* UnsplashPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E289E529FA8F8500EA475F /* UnsplashPicker.swift */; };
+		84FD495029F66D140011ADCD /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FD494F29F66D140011ADCD /* MenuView.swift */; };
+		84FD495229F6904A0011ADCD /* CreateCollectionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FD495129F6904A0011ADCD /* CreateCollectionResponse.swift */; };
+		84FD495429F6C30A0011ADCD /* GetMyCollectionsResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FD495329F6C30A0011ADCD /* GetMyCollectionsResponse.swift */; };
+		84FD495629F6CFC50011ADCD /* DeleteCollectionResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FD495529F6CFC50011ADCD /* DeleteCollectionResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84722D0229EEDF2E0043ED0E /* ImageResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageResponse.swift; sourceTree = "<group>"; };
+		84722D0429EEF77B0043ED0E /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		84722D0629F15D5F0043ED0E /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
+		84722D0829F17C8C0043ED0E /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		84722D0C29F289AD0043ED0E /* EditItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditItemView.swift; sourceTree = "<group>"; };
+		84722D0E29F2AC490043ED0E /* DropViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropViewDelegate.swift; sourceTree = "<group>"; };
 		8494529029ED44E30015B5E3 /* Wakelet_demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wakelet_demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8494529329ED44E30015B5E3 /* Wakelet_demoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wakelet_demoApp.swift; sourceTree = "<group>"; };
 		8494529529ED44E30015B5E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8494529729ED44E50015B5E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8494529A29ED44E50015B5E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		849452A129ED45540015B5E3 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		849452A329ED48DD0015B5E3 /* Collection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collection.swift; sourceTree = "<group>"; };
+		849452A529ED49150015B5E3 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		849452A929ED498D0015B5E3 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		849452AB29ED4BF30015B5E3 /* ItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemsView.swift; sourceTree = "<group>"; };
+		849452AD29ED516D0015B5E3 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		849452AF29ED52E30015B5E3 /* CollectionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewModel.swift; sourceTree = "<group>"; };
+		84E289DF29FA5CDE00EA475F /* UnsplashResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnsplashResponse.swift; sourceTree = "<group>"; };
+		84E289E129FA5D5100EA475F /* SearchObjectController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchObjectController.swift; sourceTree = "<group>"; };
+		84E289E329FA81DB00EA475F /* UpdateCollectionResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateCollectionResponse.swift; sourceTree = "<group>"; };
+		84E289E529FA8F8500EA475F /* UnsplashPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnsplashPicker.swift; sourceTree = "<group>"; };
+		84FD494F29F66D140011ADCD /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		84FD495129F6904A0011ADCD /* CreateCollectionResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateCollectionResponse.swift; sourceTree = "<group>"; };
+		84FD495329F6C30A0011ADCD /* GetMyCollectionsResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetMyCollectionsResponse.swift; sourceTree = "<group>"; };
+		84FD495529F6CFC50011ADCD /* DeleteCollectionResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteCollectionResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +95,27 @@
 			children = (
 				8494529329ED44E30015B5E3 /* Wakelet_demoApp.swift */,
 				8494529529ED44E30015B5E3 /* ContentView.swift */,
+				849452AD29ED516D0015B5E3 /* CollectionViewController.swift */,
+				849452A929ED498D0015B5E3 /* HeaderView.swift */,
+				84722D0629F15D5F0043ED0E /* AddItemView.swift */,
+				84722D0C29F289AD0043ED0E /* EditItemView.swift */,
+				849452AB29ED4BF30015B5E3 /* ItemsView.swift */,
+				84FD494F29F66D140011ADCD /* MenuView.swift */,
+				84722D0429EEF77B0043ED0E /* SafariView.swift */,
+				84722D0E29F2AC490043ED0E /* DropViewDelegate.swift */,
+				84722D0829F17C8C0043ED0E /* ImagePicker.swift */,
+				849452AF29ED52E30015B5E3 /* CollectionViewModel.swift */,
+				84FD495129F6904A0011ADCD /* CreateCollectionResponse.swift */,
+				84FD495329F6C30A0011ADCD /* GetMyCollectionsResponse.swift */,
+				84E289E329FA81DB00EA475F /* UpdateCollectionResponse.swift */,
+				84FD495529F6CFC50011ADCD /* DeleteCollectionResponse.swift */,
+				84722D0229EEDF2E0043ED0E /* ImageResponse.swift */,
+				84E289DF29FA5CDE00EA475F /* UnsplashResponse.swift */,
+				849452A329ED48DD0015B5E3 /* Collection.swift */,
+				849452A529ED49150015B5E3 /* Item.swift */,
+				84E289E529FA8F8500EA475F /* UnsplashPicker.swift */,
+				84E289E129FA5D5100EA475F /* SearchObjectController.swift */,
+				849452A129ED45540015B5E3 /* Network.swift */,
 				8494529729ED44E50015B5E3 /* Assets.xcassets */,
 				8494529929ED44E50015B5E3 /* Preview Content */,
 			);
@@ -137,8 +200,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84722D0A29F17C8D0043ED0E /* ImagePicker.swift in Sources */,
+				849452A629ED49150015B5E3 /* Item.swift in Sources */,
+				84722D0D29F289AD0043ED0E /* EditItemView.swift in Sources */,
+				84722D0529EEF77B0043ED0E /* SafariView.swift in Sources */,
+				849452AA29ED498D0015B5E3 /* HeaderView.swift in Sources */,
+				84722D0329EEDF2E0043ED0E /* ImageResponse.swift in Sources */,
+				849452AC29ED4BF30015B5E3 /* ItemsView.swift in Sources */,
+				84E289E229FA5D5100EA475F /* SearchObjectController.swift in Sources */,
+				84FD495429F6C30A0011ADCD /* GetMyCollectionsResponse.swift in Sources */,
 				8494529629ED44E30015B5E3 /* ContentView.swift in Sources */,
+				849452AE29ED516D0015B5E3 /* CollectionViewController.swift in Sources */,
+				84722D0729F15D5F0043ED0E /* AddItemView.swift in Sources */,
+				84FD495029F66D140011ADCD /* MenuView.swift in Sources */,
 				8494529429ED44E30015B5E3 /* Wakelet_demoApp.swift in Sources */,
+				84E289E629FA8F8500EA475F /* UnsplashPicker.swift in Sources */,
+				84FD495229F6904A0011ADCD /* CreateCollectionResponse.swift in Sources */,
+				84E289E429FA81DB00EA475F /* UpdateCollectionResponse.swift in Sources */,
+				84E289E029FA5CDE00EA475F /* UnsplashResponse.swift in Sources */,
+				849452B029ED52E30015B5E3 /* CollectionViewModel.swift in Sources */,
+				84722D0F29F2AC490043ED0E /* DropViewDelegate.swift in Sources */,
+				849452A229ED45540015B5E3 /* Network.swift in Sources */,
+				849452A429ED48DD0015B5E3 /* Collection.swift in Sources */,
+				84FD495629F6CFC50011ADCD /* DeleteCollectionResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
